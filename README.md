@@ -17,4 +17,3 @@ Peter Pandey is the data analyst in the supply chain team who joined AtliQ Mart 
 3. Create relevant insights not provided in the metric list/stakeholder meeting.
 
 **Live Dashboard:** <br>
-https://app.powerbi.com/view?r=eyJrIjoiYTBmZmE1YzEtZDNkYi00NmYzLWJkNmUtN2JlZDc1YzNmOTc4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
